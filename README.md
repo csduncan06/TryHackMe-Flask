@@ -1,5 +1,5 @@
 # THM-Flask
-A simple script to make LFI even easier on the THM Flask box. 
+A simple script to make LFI even easier on the THM [Flask](https://tryhackme.com/room/flask) box. 
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/wuu.png" alt="Tryhackme | Wuu"/>
